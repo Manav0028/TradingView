@@ -1,0 +1,3 @@
+id,close_price,contract_id,date,lowest_low,name,recommendation,sma20,sma_close_diff,sma_close_diff_per,time
+57863,2054.9,NULL,"2022-07-05 09:48:26",2053.9,SRF,LONG,2244.29,189.38999999999987,8.44,1657014495
+57864,2433.6,NULL,"2022-07-05 09:49:21",2368.65,RELIANCE,LONG,2583.17,149.57000000000016,5.79,1657014550
